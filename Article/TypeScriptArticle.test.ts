@@ -1,5 +1,3 @@
-const { ArticleTest } = require("./TypeScriptArticles");
-
 function sum(a: number, b: number) {
   return a + b;
 }
